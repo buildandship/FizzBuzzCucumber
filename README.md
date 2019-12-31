@@ -1,14 +1,14 @@
-#Cucumber with Java
+# Cucumber with Java
 
 
-####Cucumber uses a language called gherkin
+#### Cucumber uses a language called gherkin
 [gherkin](https://docs.behat.org/en/v2.5/guides/1.gherkin.html)
 *****
-####Behavior Driven Development
+#### Behavior Driven Development
 [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development)
-####Cucumber
+#### Cucumber
 [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/)
-####Steps
+#### Steps
 1. Add Cucumber dependencies to pom.xml
 2. In test/resources create the feature file. Feature is the behavior which is implementation of user story.
 3. Write the feature file. With details like Feature, Scenario: Given When Then
